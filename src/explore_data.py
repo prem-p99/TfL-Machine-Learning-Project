@@ -90,8 +90,8 @@ demand_by_time = (
     .reset_index()
 )
 
-print("\nDemand by time:")
-print(demand_by_time.head())
+# print("\nDemand by time:")
+# print(demand_by_time.head())
 
 
 # Total entries by station
